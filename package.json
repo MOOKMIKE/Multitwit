@@ -1,0 +1,23 @@
+{
+  "name": "multitwit",
+  "version": "1.0.0",
+  "description": "Allow a user to view and post to multiple twitter accounts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MOOKMIKE/Multitwit.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Vue"
+  ],
+  "author": "Michael Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MOOKMIKE/Multitwit/issues"
+  },
+  "homepage": "https://github.com/MOOKMIKE/Multitwit#readme"
+}
